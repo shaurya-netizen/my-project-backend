@@ -1,0 +1,11 @@
+{
+  "name": "ai-content-strategy-engine-backend",
+  "version": "1.0.0",
+  "description": "Serverless backend for the AI Content Strategy Engine",
+  "main": "api/index.js",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
